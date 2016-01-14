@@ -1,0 +1,17 @@
+Erzeugen eines git repositoreis
+	git init
+
+Status abfrage
+	git status
+
+add a file 
+	git add filenam
+
+commit 
+	git commit
+
+log 
+	git log
+
+anzeigen der braches
+	git branch
