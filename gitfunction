@@ -29,3 +29,5 @@ git checkout nameOfNewBranch
 % go to branch that should be merged
 git merge master
 
+% delete branch
+git branch -d nameOfNewBranch
