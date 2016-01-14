@@ -8,6 +8,7 @@ add a file
 	git add filenam
 
 commit 
+   git add -A % -A for all
 	git commit
 
 log 
@@ -15,3 +16,4 @@ log
 
 anzeigen der braches
 	git branch
+
