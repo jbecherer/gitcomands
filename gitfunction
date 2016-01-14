@@ -25,14 +25,15 @@ git branch nameOfNewBranch
 % to switch between branches 
 git checkout nameOfNewBranch
 
+% push a new branch to remote place
+git push -u origin nameOfNewBranch
+
 % to merge branches
 % go to branch that should be merged
 git merge master
 
 % delete branch
 git branch -d nameOfNewBranch
-% push a new branch to remote place
-git push -u origin nameOfNewBranch
 
 % to link github rep to local rep
 1. create new rep on github including README
