@@ -1,3 +1,5 @@
+% to see possibilities just type
+git
 
 % to initialize a git repository
 git init
@@ -10,3 +12,14 @@ git add filename or *
 
 %to commit changes 
 git commit
+
+% to get a repository which is on github 
+git clone github url
+
+% to see the branches
+git branch
+
+% to create a branch that is copy of the current branch
+git branch nameOfNewBranch
+
+
