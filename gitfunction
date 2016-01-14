@@ -31,3 +31,11 @@ git merge master
 
 % delete branch
 git branch -d nameOfNewBranch
+
+% to link github rep to local rep
+1. create new rep on github including README
+2. go to local rep and type
+   git remote add origin githubURLofRep
+3. git pull origin master
+4. git push
+% and now the local rep hsould be on github
