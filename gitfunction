@@ -1,0 +1,12 @@
+
+% to initialize a git repository
+git init
+
+% to check what is tracked and what not in the repository
+git status
+
+%to add files
+git add filename or * 
+
+%to commit changes 
+git commit
