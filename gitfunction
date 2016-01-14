@@ -24,3 +24,8 @@ git branch nameOfNewBranch
 
 % to switch between branches 
 git checkout nameOfNewBranch
+
+% to merge branches
+% go to branch that should be merged
+git merge master
+
