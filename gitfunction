@@ -22,4 +22,5 @@ git branch
 % to create a branch that is copy of the current branch
 git branch nameOfNewBranch
 
-
+% to switch between branches 
+git checkout nameOfNewBranch
